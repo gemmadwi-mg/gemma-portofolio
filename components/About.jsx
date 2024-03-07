@@ -44,18 +44,18 @@ const qualificationData = [
     data: [
       {
         university: "SD Cokrowati",
-        qualification: "Bachelor of Science",
-        years: "2019-2024",
+        qualification: "Sekolah Dasar",
+        years: "2006-2013",
       },
       {
         university: "SMP Tambakboyo",
-        qualification: "Bachelor of Science",
-        years: "2019-2024",
+        qualification: "High School",
+        years: "2013-2016",
       },
       {
         university: "Universitas Negeri Surabaya",
         qualification: "Bachelor of Science",
-        years: "2019-2024",
+        years: "2019",
       },
     ],
   },
@@ -65,18 +65,18 @@ const qualificationData = [
       {
         company: "Seal",
         role: "Backend Engineer",
-        years: "2019-2024",
+        years: "2022-2023",
       },
-      {
-        company: "Seal",
-        role: "Backend Engineer",
-        years: "2019-2024",
-      },
-      {
-        company: "Seal",
-        role: "Backend Engineer",
-        years: "2019-2024",
-      },
+      // {
+      //   company: "Seal",
+      //   role: "Backend Engineer",
+      //   years: "2019-2024",
+      // },
+      // {
+      //   company: "Seal",
+      //   role: "Backend Engineer",
+      //   years: "2019-2024",
+      // },
     ],
   },
 ];
@@ -89,13 +89,26 @@ const skillData = [
         name: "HTML, CSS",
       },
       {
-        name: "Front-end Development",
-      },
-      {
         name: "Javascript, PHP",
       },
       {
+        name: "Front-end Development",
+      },
+
+      {
         name: "Back-end Development",
+      },
+      {
+        name: "Flutter",
+      },
+      {
+        name: "Next JS",
+      },
+      {
+        name: "React JS",
+      },
+      {
+        name: "Node JS",
       },
     ],
   },
@@ -108,12 +121,12 @@ const skillData = [
       {
         imgPath: "/about/figma.svg",
       },
-      {
-        imgPath: "/about/notion.svg",
-      },
-      {
-        imgPath: "/about/wordpress.svg",
-      },
+      // {
+      //   imgPath: "/about/notion.svg",
+      // },
+      // {
+      //   imgPath: "/about/wordpress.svg",
+      // },
     ],
   },
 ];
@@ -134,7 +147,7 @@ const About = () => {
           <div className="hidden xl:flex flex-1 relative">
             <DevImg
               containerStyles="bg-about_shape_light dark:bg-about_shape_dark w-[505px] h-[505px] bg-no-repeat relative"
-              imgSrc="/about/developer.png"
+              imgSrc="/about/developer1.png"
             />
           </div>
           {/** tabs */}
