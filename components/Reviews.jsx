@@ -19,21 +19,21 @@ const reviewsData = [
   },
   {
     avatar: "/reviews/avatar-2.png",
-    name: "Alfi Sihab",
+    name: "Agus Sihab",
     job: "PNS",
     review:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam, voluptatum.",
   },
   {
     avatar: "/reviews/avatar-3.png",
-    name: "Alfi Sihab",
+    name: "Alwi Sihab",
     job: "PNS",
     review:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam, voluptatum.",
   },
   {
     avatar: "/reviews/avatar-4.png",
-    name: "Alfi Sihab",
+    name: "Mujair Sihab",
     job: "PNS",
     review:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam, voluptatum.",

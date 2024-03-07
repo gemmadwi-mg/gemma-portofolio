@@ -12,49 +12,40 @@ import ProjectCard from "./ProjectCard";
 
 const projectData = [
   {
-    image: "/work/3.png",
-    category: "react js",
-    name: "Nexa Website",
+    image: "/work/5.png",
+    category: "next js",
+    name: "Angkringan Cak Meri Website",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, incidunt!",
-    link: "/",
-    github: "/",
+    link: "https://angkringan-cakmeri.vercel.app/",
+    github: "https://github.com/gemmadwi-mg/angkringan-cakmeri",
   },
   {
-    image: "/work/4.png",
-    category: "react js",
-    name: "Nexa Website",
+    image: "",
+    category: "next js",
+    name: "Trello Clone",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, incidunt!",
-    link: "/",
-    github: "/",
+    link: "/projects",
+    github: "https://github.com/gemmadwi-mg/trello-clone",
   },
   {
-    image: "/work/2.png",
-    category: "react js",
-    name: "Nexa Website",
+    image: "",
+    category: "next js",
+    name: "Airbnb Clone",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, incidunt!",
-    link: "/",
-    github: "/",
+    link: "/projects",
+    github: "https://github.com/gemmadwi-mg/Airbnb-clone",
   },
   {
-    image: "/work/1.png",
-    category: "react js",
-    name: "Nexa Website",
+    image: "",
+    category: "next js",
+    name: "LMS Platform",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, incidunt!",
-    link: "/",
-    github: "/",
-  },
-  {
-    image: "/work/4.png",
-    category: "react js",
-    name: "Nexa Website",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, incidunt!",
-    link: "/",
-    github: "/",
+    link: "https://lms-platform-pink-eta.vercel.app/",
+    github: "https://github.com/gemmadwi-mg/lms-platform",
   },
 ];
 
